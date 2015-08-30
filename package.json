@@ -1,0 +1,11 @@
+{
+  "name": "iseekr-cli",
+  "bin": {
+    "iseekr": "index.js"
+  },
+  "dependencies": {
+    "commander": "^2.8.1",
+    "mongoose": "^4.1.3",
+    "restler": "^3.3.0"
+  }
+}
